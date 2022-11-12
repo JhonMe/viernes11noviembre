@@ -19,9 +19,18 @@
 <style>
         body{
             background: black;
+            margin: 0;
+            padding: 0;
+            background: url(https://img.freepik.com/vector-premium/fondo-azul-degradado_23-2149330349.jpg);
+            background-size: cover;
+            background-position: center;
+            font-family: sans-serif;
+        }
+        .navar{
+            color: palevioletred;
         }
         .container{
-            background: #4DD31A;
+            color: red;
         }
         .navbar-brand1{
             color: black;
@@ -57,7 +66,6 @@
         font-family: Arial;
        }
  </style>
-    </style>
     <div id="app">
         <nav class="navbar navbar-expand-md navbar-light bg-#0a141d shadow-sm">
             <div class="container">
